@@ -6,6 +6,12 @@ EditorBuildSettings:
   serializedVersion: 2
   m_Scenes:
   - enabled: 1
+    path: Assets/Shipwreck Surviors/Scenes/Main Menu.unity
+    guid: 62cb29ae892e2b24f9ab52cb441e265d
+  - enabled: 1
+    path: Assets/Shipwreck Surviors/Scenes/Level 1.unity
+    guid: 3b72665bee5c2dd4fba64aaa046289c1
+  - enabled: 1
     path: Assets/Extensions/TopDownEngine/Demos/StartScreen/StartScreen.unity
     guid: 52360e1567e3fee418407abdfd132d73
   - enabled: 1
